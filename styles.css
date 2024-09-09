@@ -1,0 +1,38 @@
+body {
+  background-color: rgba(198, 194, 188, 0.5);
+}
+.box {
+  background-color: white;
+  max-width: 40%;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 12px;
+}
+footer {
+  text-align: center;
+}
+.weather {
+  display: flex;
+  justify-content: space-around;
+}
+.search-form {
+  max-width: 100%;
+  margin: 20px;
+  text-align: center;
+}
+.search-input {
+  width: 270px;
+  padding: 7px;
+}
+.search {
+  padding: 7px;
+  margin: 7px;
+  background-color: rgb(234, 225, 243);
+}
+.temp {
+  font-size: 30px;
+}
+h1 {
+  text-align: center;
+  color: rgb(189, 166, 211);
+}
